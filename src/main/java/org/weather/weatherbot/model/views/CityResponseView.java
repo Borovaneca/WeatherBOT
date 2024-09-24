@@ -1,9 +1,9 @@
-package org.quizapp.weatherbot.model.views;
+package org.weather.weatherbot.model.views;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
-import org.quizapp.weatherbot.model.response.*;
+import org.weather.weatherbot.model.response.weather.*;
 
 import java.util.List;
 

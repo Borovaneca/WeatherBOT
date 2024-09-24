@@ -1,4 +1,4 @@
-package org.quizapp.weatherbot.model.response;
+package org.weather.weatherbot.model.response.weather;
 
 
 import lombok.AllArgsConstructor;

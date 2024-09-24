@@ -1,11 +1,11 @@
-package org.quizapp.weatherbot.listeners;
+package org.weather.weatherbot.listeners;
 
 import com.google.gson.Gson;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
-import org.quizapp.weatherbot.model.views.CityResponseView;
-import org.quizapp.weatherbot.utils.Utils;
+import org.weather.weatherbot.model.views.CityResponseView;
+import org.weather.weatherbot.utils.Utils;
 import org.springframework.stereotype.Component;
 
 import java.awt.*;
